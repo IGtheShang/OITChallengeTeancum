@@ -1,0 +1,3 @@
+C:/Users/49960/CLionProjects/OITcodeChallengeWindows/cmake-build-debug/CMakeFiles/OITcodeChallengeWindows.dir
+C:/Users/49960/CLionProjects/OITcodeChallengeWindows/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/49960/CLionProjects/OITcodeChallengeWindows/cmake-build-debug/CMakeFiles/rebuild_cache.dir
